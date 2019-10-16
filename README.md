@@ -8,8 +8,9 @@ This is able analyse all activity happened in whatsapp group and visualize all t
 2- Count total chat person wise.<br>
 3- showing top active member.<br>
 4- How many messages are deleted during conversation.<br>
-5- Identify which day is more conversation happend.<br>
+5- Identify more conversation days.<br>
 6- Identify current Admin and how many admin changed till now.<br>
+7- And many more.
 <br><br><br>
 
 
