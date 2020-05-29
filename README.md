@@ -7,8 +7,8 @@
 
 
 ## INTRODUCTION:
-This is whatsapp group/individual chat analyzer .<br>
-This is able analyse all activity happened in whatsapp group and visualize all thing through matplotlib library.
+This script for whatsapp group/individual chat analyzer .<br>
+This script is able to analyse all activity happened in whatsapp group and visualize all thing through matplotlib library.
 <br><br><br>
 ## Application:
 1- Count total chat.<br>
