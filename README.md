@@ -1,4 +1,11 @@
 # Chat_Analyzer<br><br>
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br>
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/subahanii/COVID19-tracker/blob/master/LICENSE)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/subahanii/COVID19-tracker/issues)
+
+
 ## INTRODUCTION:
 This is whatsapp group/individual chat analyzer .<br>
 This is able analyse all activity happened in whatsapp group and visualize all thing through matplotlib library.
@@ -30,4 +37,11 @@ This is able analyse all activity happened in whatsapp group and visualize all t
 3- tap on "Export Chat" <br>
 4- tap on "Without Media"<br>
 5- finally you will get .txt file well done.<br>
+
+### Contributions :smiley:[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/subahanii/Whatsapp-Chat-Analyzer/issues)
+Contributions always welcome .
+
+### Thank You.:pray:
+##### If you like this please appreciate by giving start and Fork this repo.Thank You...! :clap: :clap: :clap:
+
 
